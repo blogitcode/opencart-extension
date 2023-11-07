@@ -1,2 +1,2 @@
-# opencart-extension
+# OpenCart Extension Free
 OpenCart Extension Free
